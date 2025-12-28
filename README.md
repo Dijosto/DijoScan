@@ -10,23 +10,23 @@ A modern memory scanner and game modding tool for Windows. Built with .NET 9 and
 ## Screenshots
 
 ### Main Window
-![Main Window](images/main.png)
+![Main Window](images/MainForm.png)
 *Process selection, memory scanning, and address list*
 
 ### Memory Browser
-![Memory Browser](images/memory-browser.png)
+![Memory Browser](images/MemoryBrowser.png)
 *Hex editor with x64 disassembly, memory regions, and live editing*
 
 ### Script Editor
-![Script Editor](images/script-editor.png)
+![Script Editor](images/ScriptEditor.png)
 *C# scripting with hardware breakpoints and register inspection*
 
 ### Structure Dissector
-![Structure Dissector](images/structure-dissector.png)
+![Structure Dissector](images/StructureDissector.png)
 *IL2CPP type inspection with live value display*
 
 ### Trainer Export
-![Trainer Export](images/trainer-export.png)
+![Trainer Export](images/TrainerGenerator.png)
 *Export scripts as standalone executables*
 
 ---
