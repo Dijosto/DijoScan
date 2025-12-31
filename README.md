@@ -1,13 +1,14 @@
 # DijoScan
 
-[![.NET](https://img.shields.io/badge/.NET-9.0-512BD4?style=flat-square&logo=dotnet)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&logo=dotnet)](https://dotnet.microsoft.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-0078D6?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
 
-A modern memory scanner and game modding tool for Windows. Built with .NET 9 and Windows Forms as an alternative to Cheat Engine, designed for game modding, reverse engineering, and security research.
+A modern memory scanner and game modding tool for Windows. Built with .NET 10 and Windows Forms as an alternative to Cheat Engine, designed for game modding, reverse engineering, and security research.
 
 ---
 
 ## Screenshots
+
 
 ### Main Window
 ![Main Window](images/MainForm.PNG)
@@ -91,7 +92,7 @@ A modern memory scanner and game modding tool for Windows. Built with .NET 9 and
 | Requirement | Version |
 |-------------|---------|
 | Operating System | Windows 10/11 (x64) |
-| Runtime | .NET 9.0 |
+| Runtime | .NET 10 |
 | Privileges | Administrator |
 
 ---
